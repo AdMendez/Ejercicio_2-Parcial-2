@@ -1,0 +1,12 @@
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\bin\Debug\net5.0\Resistencia.Domain.deps.json
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\bin\Debug\net5.0\Resistencia.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\bin\Debug\net5.0\ref\Resistencia.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\bin\Debug\net5.0\Resistencia.Domain.pdb
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.csproj.AssemblyReference.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.AssemblyInfoInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.AssemblyInfo.cs
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.csproj.CoreCompileInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\ref\Resistencia.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Domain\obj\Debug\net5.0\Resistencia.Domain.pdb

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Resistencia.Application/1.0.0": {
+        "dependencies": {
+          "Resistencia.Domain": "1.0.0",
+          "Resistencia.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "Resistencia.Application.dll": {}
+        }
+      },
+      "Resistencia.Domain/1.0.0": {
+        "runtime": {
+          "Resistencia.Domain.dll": {}
+        }
+      },
+      "Resistencia.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Resistencia.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Resistencia.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resistencia.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resistencia.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resistencia.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

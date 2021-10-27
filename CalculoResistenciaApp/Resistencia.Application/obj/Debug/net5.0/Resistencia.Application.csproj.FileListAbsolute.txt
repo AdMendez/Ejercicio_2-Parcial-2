@@ -1,0 +1,17 @@
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Application.deps.json
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\ref\Resistencia.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Application.pdb
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Infraestructure.pdb
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\bin\Debug\net5.0\Resistencia.Domain.pdb
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.csproj.AssemblyReference.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.AssemblyInfoInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.AssemblyInfo.cs
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.csproj.CoreCompileInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.csproj.CopyComplete
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\ref\Resistencia.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Application\obj\Debug\net5.0\Resistencia.Application.pdb

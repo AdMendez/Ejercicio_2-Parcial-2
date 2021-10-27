@@ -1,0 +1,15 @@
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\bin\Debug\net5.0\Resistencia.Infraestructure.deps.json
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\bin\Debug\net5.0\Resistencia.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\bin\Debug\net5.0\ref\Resistencia.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\bin\Debug\net5.0\Resistencia.Infraestructure.pdb
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\bin\Debug\net5.0\Resistencia.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\bin\Debug\net5.0\Resistencia.Domain.pdb
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.csproj.AssemblyReference.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.AssemblyInfoInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.AssemblyInfo.cs
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.csproj.CoreCompileInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.csproj.CopyComplete
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\ref\Resistencia.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoResistenciaApp\Resistencia.Infraestructure\obj\Debug\net5.0\Resistencia.Infraestructure.pdb
