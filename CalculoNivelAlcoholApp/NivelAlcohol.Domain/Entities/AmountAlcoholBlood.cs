@@ -1,11 +1,16 @@
 using System;
+using NivelAlcohol.Domain.Interfaces;
 
 namespace NivelAlcohol.Domain.Entities
 {
-    public class AmountAlcoholBlood
+    public class AmountAlcoholBlood : IAmountAlcoholBlood
     {
         private int _amount = 0;
         private string _drink = "";
+        private double _operation = 0;
+        private int _peso = 0;
+        private double _volumen = 0;
+        private double _result = 0;
 
 
         public void TotalAlcoholConsumed(int amount, string drink)
@@ -64,6 +69,31 @@ namespace NivelAlcohol.Domain.Entities
 
         }
     
+        public void AmountBlood()
+        {
+            _amount = (15/100) * (_amount);
+        }
     
+        public void MassEtanol()
+        {
+            var etanol = 0.789;
+            _operation = etanol * _amount;
+        }
+    
+        public void VolumeBlood(int peso)
+        {
+            _peso = peso;
+            _volumen = (8/100) * _peso;
+        }
+
+        public void AlcoholBlood()
+        {
+            _result = _operation / _volumen;
+        }
+    
+        public string ReturnResult()
+        {
+            return $"Su cantidad de alcohol en es {_result}, es superior a 0.8 g/L, por lo tanto no puede manejar, solicite apoyo";
+        }
     }
 }
