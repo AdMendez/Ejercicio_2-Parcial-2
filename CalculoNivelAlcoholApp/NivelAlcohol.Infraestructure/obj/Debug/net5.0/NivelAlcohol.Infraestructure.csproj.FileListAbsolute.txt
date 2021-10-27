@@ -1,0 +1,15 @@
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\bin\Debug\net5.0\NivelAlcohol.Infraestructure.deps.json
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\bin\Debug\net5.0\NivelAlcohol.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\bin\Debug\net5.0\ref\NivelAlcohol.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\bin\Debug\net5.0\NivelAlcohol.Infraestructure.pdb
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\bin\Debug\net5.0\NivelAlcohol.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\bin\Debug\net5.0\NivelAlcohol.Domain.pdb
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.csproj.AssemblyReference.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.AssemblyInfoInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.AssemblyInfo.cs
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.csproj.CoreCompileInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.csproj.CopyComplete
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\ref\NivelAlcohol.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Infraestructure\obj\Debug\net5.0\NivelAlcohol.Infraestructure.pdb

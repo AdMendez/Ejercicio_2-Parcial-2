@@ -1,0 +1,12 @@
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\bin\Debug\net5.0\NivelAlcohol.Domain.deps.json
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\bin\Debug\net5.0\NivelAlcohol.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\bin\Debug\net5.0\ref\NivelAlcohol.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\bin\Debug\net5.0\NivelAlcohol.Domain.pdb
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.csproj.AssemblyReference.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.AssemblyInfoInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.AssemblyInfo.cs
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.csproj.CoreCompileInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\ref\NivelAlcohol.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Domain\obj\Debug\net5.0\NivelAlcohol.Domain.pdb

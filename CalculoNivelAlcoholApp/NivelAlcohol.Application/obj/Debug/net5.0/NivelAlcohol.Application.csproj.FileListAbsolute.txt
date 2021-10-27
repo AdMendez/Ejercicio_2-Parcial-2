@@ -1,0 +1,17 @@
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Application.deps.json
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\ref\NivelAlcohol.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Application.pdb
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Domain.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Infraestructure.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Infraestructure.pdb
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\bin\Debug\net5.0\NivelAlcohol.Domain.pdb
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.csproj.AssemblyReference.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.AssemblyInfoInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.AssemblyInfo.cs
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.csproj.CoreCompileInputs.cache
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.csproj.CopyComplete
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\ref\NivelAlcohol.Application.dll
+C:\home\Ejercicios_Parcial2\CalculoNivelAlcoholApp\NivelAlcohol.Application\obj\Debug\net5.0\NivelAlcohol.Application.pdb

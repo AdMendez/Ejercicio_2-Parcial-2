@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NivelAlcohol.Application/1.0.0": {
+        "dependencies": {
+          "NivelAlcohol.Domain": "1.0.0",
+          "NivelAlcohol.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "NivelAlcohol.Application.dll": {}
+        }
+      },
+      "NivelAlcohol.Domain/1.0.0": {
+        "runtime": {
+          "NivelAlcohol.Domain.dll": {}
+        }
+      },
+      "NivelAlcohol.Infraestructure/1.0.0": {
+        "dependencies": {
+          "NivelAlcohol.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NivelAlcohol.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NivelAlcohol.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NivelAlcohol.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NivelAlcohol.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
