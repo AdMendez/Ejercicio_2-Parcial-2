@@ -7,7 +7,12 @@ namespace NivelAlcohol.Domain.Entities
     {
         private int _amount = 0;
         private string _drink = "";
-        private double _operation = 0;
+        private int ml = 0;
+        private double graduation = 0.0;
+        private double _total;
+        private double _fact;
+        private double _etanol = 0.789;
+        private double _operation;
         private int _peso = 0;
         private double _volumen = 0;
         private double _result = 0;
@@ -21,69 +26,69 @@ namespace NivelAlcohol.Domain.Entities
 
             if(_drink == "cerveza")
             {
-                var ml = 330;
+                ml = 330;
                 _amount = _amount * ml;
-                var graduation = 5;
-                _amount = (graduation/100)*(_amount);
+                graduation = 5;
+                _total = (graduation/100)*(_amount);
             }
 
             if(_drink == "vino" || _drink == "cava")
             {
-                var ml = 100;
+                ml = 100;
                 _amount = _amount * ml;
-                var graduation = 12;
-                _amount = (graduation/100)*(_amount);
+                graduation = 12;
+                _total = (graduation/100)*(_amount);
             }
 
             if(_drink == "vermú")
             {
-                var ml = 70;
+                ml = 70;
                 _amount = _amount * ml;
-                var graduation = 17;
-                _amount = (graduation/100)*(_amount);
+                graduation = 17;
+                _total = (graduation/100)*(_amount);
             }
 
             if(_drink == "licor")
             {
-                var ml = 45;
+                ml = 45;
                 _amount = _amount * ml;
-                var graduation = 23;
-                _amount = (graduation/100)*(_amount);
+                graduation = 23;
+                _total = (graduation/100)*(_amount);
             }
 
             if(_drink == "brandy")
             {
-                var ml = 45;
+                ml = 45;
                 _amount = _amount * ml;
-                var graduation = 38;
-                _amount = (graduation/100)*(_amount);
+                graduation = 38;
+                _total = (graduation/100)*(_amount);
             }
 
             if(_drink == "combinado")
             {
-                var ml = 50;
+                ml = 50;
                 _amount = _amount * ml;
-                var graduation = 38;
-                _amount = (graduation/100)*(_amount);
+                graduation = 38;
+                _total = (graduation/100)*(_amount);
             }
+
 
         }
     
         public void AmountBlood()
         {
-            _amount = (15/100) * (_amount);
+            _fact = 0.15 * _total;
         }
     
         public void MassEtanol()
         {
-            var etanol = 0.789;
-            _operation = etanol * _amount;
+            _operation = _etanol * _fact;
         }
     
         public void VolumeBlood(int peso)
         {
             _peso = peso;
-            _volumen = (8/100) * _peso;
+            _volumen = 0.08 * _peso;
         }
 
         public void AlcoholBlood()
@@ -93,7 +98,11 @@ namespace NivelAlcohol.Domain.Entities
     
         public string ReturnResult()
         {
-            return $"Su cantidad de alcohol en es {_result}, es superior a 0.8 g/L, por lo tanto no puede manejar, solicite apoyo";
+            if(_result < 0.8)
+            {
+                return $"Su cantidad de alcohol en sangre es {_result} g/L, no es superior a 0.8 g/L, tenga un buen viaje...";
+            }
+            return $"Su cantidad de alcohol en sangre es {_result} g/L, es superior a 0.8 g/L, por lo tanto no puede manejar, solicite apoyo";
         }
     }
 }
